@@ -9,3 +9,9 @@ z = float(3)  # z will be 3.0
 print(a)
 print(y)
 print(z)
+
+
+d = 5
+e = "john"
+print(type(d))
+print(type(e))
