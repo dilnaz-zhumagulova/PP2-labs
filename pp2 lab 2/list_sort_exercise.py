@@ -1,4 +1,5 @@
 #1 What is a correct syntax for sorting a list?
+mylist = ["banana", "Orange", "Kiwi", "cherry"]
 mylist.sort()
 
 #2 What is a correct syntax for reversing the current order of a list?
